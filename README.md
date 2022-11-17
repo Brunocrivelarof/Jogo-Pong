@@ -26,6 +26,18 @@ Como criar o jogo Pong utilizando o JavaScript
 https://editor.p5js.org/
 ```
 
+<h3>Sobre o que é o jogo?</h3>
+
+```
+Pong é um game de esporte desenvolvido e publicado pela Atari em 1972. Com uma proposta simples que lembra a dinâmica do pingue-pongue.
+```
+
+<h3>Como funciona o jogo?</h3>
+
+```
+A premissa de Pong era simples: use a raquete virtual para rebater a bolinha e pontuar mais que o adversário. Quem somar mais pontos fica com a vitória.
+```
+
 <h3>Como Jogar</h3>
 
 ```
