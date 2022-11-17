@@ -36,8 +36,8 @@ Com uma proposta simples que lembra a dinâmica do pingue-pongue.
 <h3>Como funciona o jogo?</h3>
 
 ```
-A premissa de Pong era simples: use a raquete virtual para rebater a bolinha e pontuar mais que o adversário. 
-Quem somar mais pontos fica com a vitória.
+A premissa de Pong era simples: use a raquete virtual para rebater a bolinha e pontuar 
+mais que o adversário. Quem somar mais pontos fica com a vitória.
 ```
 
 <h3>Como Jogar</h3>
