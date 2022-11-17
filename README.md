@@ -20,6 +20,11 @@ Bruno C Fernandes
 Como criar o jogo Pong utilizando o JavaScript
 ```
 
+<h3>Linguagens utilizadas</h3>
+```
+JavaScript
+```
+
 <h3>Onde Abrir o código para jogar<h3/>
 
 ```
