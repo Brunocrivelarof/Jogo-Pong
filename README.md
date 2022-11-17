@@ -8,6 +8,12 @@
 Lógica de programação: comece em lógica com o jogo Pong e Javascript
 ```
 
+<h3>Feito por:</h3>
+
+```
+Bruno C Fernandes
+```
+
 <h3>O que foi aprendido</h3>
 
 ```
